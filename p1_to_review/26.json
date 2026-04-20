@@ -1,0 +1,28 @@
+{
+  "category": "Experiment",
+  "confidence": "High",
+  "age_range": {
+    "evidence": "Population: child/adolescent aged 5–18",
+    "value": [
+      5,
+      18
+    ]
+  },
+  "countries": {
+    "evidence": "Two studies each were conducted in the United States, Australia and the Netherlands; and one each from Belgium, Spain, Romania, Canada and Taiwan.",
+    "value": [
+      "US",
+      "AU",
+      "NL",
+      "BE",
+      "ES",
+      "RO",
+      "CA",
+      "TW"
+    ]
+  },
+  "sample_size": {
+    "evidence": "Overall, the studies had 13,532 participants, although for this review the results applied to a slightly smaller sample of 12,646.",
+    "value": 12646
+  }
+}

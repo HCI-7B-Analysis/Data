@@ -1,0 +1,29 @@
+{
+    "age_range": {
+        "evidence": "We conducted 17 semi-structured interviews in which participants (UK-based, aged 18\u201325, with experience of disordered eating or an ED) described their experiences of using TikTok.",
+        "value": [
+            18,
+            25
+        ]
+    },
+    "category": "Experiment",
+    "confidence": "High",
+    "countries": {
+        "evidence": "We conducted 17 semi-structured interviews in which participants (UK-based, aged 18\u201325, with experience of disordered eating or an ED) described their experiences of using TikTok.",
+        "value": [
+            "GB"
+        ]
+    },
+    "gender_split": {
+        "evidence": "All the participants whose extracts are analysed identified as female",
+        "value": {
+            "female": 17,
+            "male": 0,
+            "other": 0
+        }
+    },
+    "sample_size": {
+        "evidence": "In total, there were 67 responses to the EOI form with 30 participants responding to a follow-up email and consenting to an online interview, which was held and recorded via Microsoft Teams.",
+        "value": 17
+    }
+}

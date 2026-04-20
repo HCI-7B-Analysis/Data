@@ -1,0 +1,33 @@
+{
+    "age_range": {
+        "evidence": "Young people aged 15 to 25 and adults (aged 26 and above)",
+        "value": [
+            15,
+            25
+        ]
+    },
+    "category": "Experiment",
+    "confidence": "High",
+    "countries": {
+        "evidence": "Participants from across Australia were recruited",
+        "value": [
+            "AU"
+        ]
+    },
+    "fieldwork_year": {
+        "evidence": "An online national cross-sectional survey was conducted between January and March 2024.",
+        "value": 2024
+    },
+    "gender_split": {
+        "evidence": "[Table 1]",
+        "value": {
+            "female": 467,
+            "male": 379,
+            "other": 49
+        }
+    },
+    "sample_size": {
+        "evidence": "Three thousand five hundred forty-nine individuals (895 young people; 2,654 adults) completed the survey.",
+        "value": 895
+    }
+}

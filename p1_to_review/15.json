@@ -1,0 +1,23 @@
+{
+    "age_range": {
+        "evidence": "We collected objective digital trace Instagram use data and subjective self-report use data to investigate relations with self-reported self-esteem, loneliness, body satisfaction, and depression among 192 young adults (ages 18\u201325).",
+        "value": [
+            18,
+            25
+        ]
+    },
+    "category": "Experiment",
+    "confidence": "High",
+    "gender_split": {
+        "evidence": "We recruited 145 female participants (75.52 %), 45 male participants (23.44 %), and 2 participants who did not wish to disclose (1.04 %).",
+        "value": {
+            "female": 145,
+            "male": 45,
+            "other": 2
+        }
+    },
+    "sample_size": {
+        "evidence": "Overall, 192 participants provided useable data.",
+        "value": 192
+    }
+}

@@ -1,0 +1,33 @@
+{
+  "category": "Experiment",
+  "confidence": "High",
+  "age_range": {
+    "evidence": "The team chose to work with high school age youth (14-17 years old)",
+    "value": [
+      14,
+      17
+    ]
+  },
+  "fieldwork_year": {
+    "evidence": "participatory design work with two groups of high school students in spring 2015.",
+    "value": 2015
+  },
+  "gender_split": {
+    "evidence": "Our ninth grade sessions consisted of 14 participants, 10 of whom were female and four of whom were male. Our twelfth grade class consisted of seven participants, five of whom were female, two of whom were male.",
+    "value": {
+      "male": 6,
+      "female": 15,
+      "other": 0
+    }
+  },
+  "countries": {
+    "evidence": "In this study, we extend existing participatory design techniques with adolescents... with ninth and twelfth graders at a private high school in a large metropolitan region in the U.S.",
+    "value": [
+      "US"
+    ]
+  },
+  "sample_size": {
+    "evidence": "We conducted a total of ten sessions... In our ninth grade sessions consisted of 14 participants... Our twelfth grade class consisted of seven participants",
+    "value": 21
+  }
+}

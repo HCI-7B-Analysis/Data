@@ -1,0 +1,33 @@
+{
+    "age_range": {
+        "evidence": "The mean age was 14.5 \u00B1 2.1 years.",
+        "value": [
+            12,
+            16
+        ]
+    },
+    "category": "Experiment",
+    "confidence": "High",
+    "countries": {
+        "evidence": "an anonymous paper survey was conducted in an Italian third-level center for ED in childhood and adolescence.",
+        "value": [
+            "IT"
+        ]
+    },
+    "fieldwork_year": {
+        "evidence": "In January\u2013February 2021, during the second Italian national lockdown due to the SARS-CoV-2 pandemic, an anonymous paper survey was conducted...",
+        "value": 2021
+    },
+    "gender_split": {
+        "evidence": "Participants were 73 (93.6%) females and 5 (6.4%) males.",
+        "value": {
+            "female": 73,
+            "male": 5,
+            "other": 0
+        }
+    },
+    "sample_size": {
+        "evidence": "Seventy-eight patients agreed to participate in the study and completed the questionnaire.",
+        "value": 78
+    }
+}

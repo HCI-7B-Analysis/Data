@@ -1,0 +1,33 @@
+{
+    "age_range": {
+        "evidence": "The target group comprised 8066 adolescents (13\u201319 years).",
+        "value": [
+            13,
+            19
+        ]
+    },
+    "category": "Experiment",
+    "confidence": "High",
+    "countries": {
+        "evidence": "All adolescents aged 13\u201319 years living in the county of Tr\u00F8ndelag in Norway were invited to participate",
+        "value": [
+            "NO"
+        ]
+    },
+    "fieldwork_year": {
+        "evidence": "The present study was a part of the Tr\u00F8ndelag Health Study (HUNT) [30, 31]. All adolescents aged 13\u201319 years living in the county of Tr\u00F8ndelag in Norway were invited to participate in the Young-HUNT4 survey (2017\u20132019), of whom 8066 adolescents participated",
+        "value": 2017
+    },
+    "gender_split": {
+        "evidence": "Females 4108 (50.9) [Table 1]",
+        "value": {
+            "female": 4108,
+            "male": 3958,
+            "other": 0
+        }
+    },
+    "sample_size": {
+        "evidence": "A total of 8066 adolescents responded to the survey.",
+        "value": 8066
+    }
+}

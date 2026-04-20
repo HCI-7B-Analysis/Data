@@ -1,0 +1,29 @@
+{
+    "age_range": {
+        "evidence": "Participants were 311 undergraduate students aged 18\u201325 years.",
+        "value": [
+            18,
+            25
+        ]
+    },
+    "category": "Experiment",
+    "confidence": "High",
+    "countries": {
+        "evidence": "Participants were 311 female undergraduate students recruited through an undergraduate research participant pool at York University in Toronto, Canada",
+        "value": [
+            "CA"
+        ]
+    },
+    "gender_split": {
+        "evidence": "Participants were 311 female undergraduate students recruited through an undergraduate research participant pool at York University in Toronto, Canada",
+        "value": {
+            "female": 311,
+            "male": 0,
+            "other": 0
+        }
+    },
+    "sample_size": {
+        "evidence": "resulting in a final sample of 311 participants.",
+        "value": 311
+    }
+}

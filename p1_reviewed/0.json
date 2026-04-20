@@ -1,0 +1,29 @@
+{
+    "age_range": {
+        "evidence": "Of these, we excluded 78 respondents who either reported an age older than 24 or did not report an age, leaving a total of 254 responses for analysis.",
+        "value": [
+            18,
+            24
+        ]
+    },
+    "category": "Experiment",
+    "confidence": "High",
+    "countries": {
+        "evidence": "A total of 332 students responded to the survey. Of these, we excluded 78 respondents who either reported an age older than 24 or did not report an age, leaving a total of 254 responses for analysis. ... The approximately 10-minute survey ... was administered via Qualtrics. ... [The study used] a mid-Atlantic university",
+        "value": [
+            "US"
+        ]
+    },
+    "gender_split": {
+        "evidence": "Table II. SURVEY PARTICIPANTS\u2019 SELF-REPORTED DEMOGRAPHIC DATA",
+        "value": {
+            "female": 137,
+            "male": 95,
+            "other": 24
+        }
+    },
+    "sample_size": {
+        "evidence": "leaving a total of 254 responses for analysis.",
+        "value": 254
+    }
+}

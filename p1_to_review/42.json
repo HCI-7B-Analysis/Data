@@ -1,0 +1,33 @@
+{
+    "age_range": {
+        "evidence": "The study included 490 adolescents and young adults, aged between 12 and 25 years old.",
+        "value": [
+            12,
+            25
+        ]
+    },
+    "category": "Experiment",
+    "confidence": "High",
+    "countries": {
+        "evidence": "nearly 26 million in France (Internet World Stat, 2014).",
+        "value": [
+            "FR"
+        ]
+    },
+    "fieldwork_year": {
+        "evidence": "Participants were recruited online between November 2012 and February 2013",
+        "value": 2012
+    },
+    "gender_split": {
+        "evidence": "Among them, 76% (n=348) were women and 24% were men (n=108).",
+        "value": {
+            "female": 348,
+            "male": 108,
+            "other": 0
+        }
+    },
+    "sample_size": {
+        "evidence": "Total sample of our study was composed of 456 participants",
+        "value": 456
+    }
+}

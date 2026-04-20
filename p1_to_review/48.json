@@ -1,0 +1,29 @@
+{
+    "age_range": {
+        "evidence": "One-hundred and eighteen women, aged 18\u201329 years, indicated their social media use.",
+        "value": [
+            18,
+            29
+        ]
+    },
+    "category": "Experiment",
+    "confidence": "High",
+    "countries": {
+        "evidence": "We intentionally oversampled in a single wave of data collection via social media, survey distribution websites and the undergraduate psychology programme of a state university in the UK.",
+        "value": [
+            "GB"
+        ]
+    },
+    "gender_split": {
+        "evidence": "One-hundred and eighteen women, aged 18\u201329 years, indicated their social media use.",
+        "value": {
+            "female": 118,
+            "male": 0,
+            "other": 0
+        }
+    },
+    "sample_size": {
+        "evidence": "One-hundred and eighteen women, aged 18\u201329 years, indicated their social media use.",
+        "value": 118
+    }
+}

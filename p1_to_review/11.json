@@ -1,0 +1,33 @@
+{
+    "age_range": {
+        "evidence": "Inclusion criteria were being 13-to-18-year-olds",
+        "value": [
+            13,
+            18
+        ]
+    },
+    "category": "Experiment",
+    "confidence": "High",
+    "countries": {
+        "evidence": "Three US-based pediatric cohort sites participating in the National Institutes of Health Environmental Influences on Child Health Outcomes study contributed cross-sectional survey data.",
+        "value": [
+            "US"
+        ]
+    },
+    "fieldwork_year": {
+        "evidence": "Data were collected between June 2019 and May 2023.",
+        "value": 2019
+    },
+    "gender_split": {
+        "evidence": "Male 489(51%) Female 474(49%) [Table 1]",
+        "value": {
+            "female": 474,
+            "male": 489,
+            "other": 0
+        }
+    },
+    "sample_size": {
+        "evidence": "Participants (N = 963) were sociodemographically diverse",
+        "value": 963
+    }
+}

@@ -1,0 +1,25 @@
+{
+    "age_range": {
+        "evidence": "The real-world 15,000 Social Media Analytics dataset was also used to demonstrate real-life, practical evaluation. For our evaluations 20 posts were used from the 15,000 (Kaggle dataset)... The data set includes linguistic indicators for each age group and confidence level. For instance, age-specific indicators include \"homework\" and \"high school\" for teens, \"career\" and \"apartment\" for young adults, \"mortgage\" and \"kids\" for adults, and \"retirement\" and \"grandchildren\" for seniors.",
+        "value": [
+            13,
+            65
+        ]
+    },
+    "category": "Experiment",
+    "confidence": "High",
+    "countries": {
+        "evidence": "Jiang and Ngien [3] studied the effects of Instagram on the self-esteem and social anxiety among users in Singapore.",
+        "value": [
+            "SG"
+        ]
+    },
+    "fieldwork_year": {
+        "evidence": "The dataset spans from January 2023 to December 2024",
+        "value": 2023
+    },
+    "sample_size": {
+        "evidence": "The real-world 15,000 Social Media Analytics dataset was also used to demonstrate real-life, practical evaluation.",
+        "value": 15000
+    }
+}

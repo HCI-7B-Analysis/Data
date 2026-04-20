@@ -1,0 +1,29 @@
+{
+    "age_range": {
+        "evidence": "The workshop was conducted with children aged between 10 and 11 years.",
+        "value": [
+            10,
+            11
+        ]
+    },
+    "category": "Experiment",
+    "confidence": "High",
+    "countries": {
+        "evidence": "The workshop was conducted at Lorena Falasco Elementary School in Los Banos, California.",
+        "value": [
+            "US"
+        ]
+    },
+    "gender_split": {
+        "evidence": "8 of them were female and 6 were male.",
+        "value": {
+            "female": 8,
+            "male": 6,
+            "other": 0
+        }
+    },
+    "sample_size": {
+        "evidence": "14 students took part in the workshop.",
+        "value": 14
+    }
+}

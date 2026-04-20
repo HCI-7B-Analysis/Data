@@ -1,0 +1,31 @@
+{
+    "age_range": {
+        "evidence": "We collected objective digital trace Instagram use data and subjective self-report use data to investigate relations with self-reported self-esteem, loneliness, body satisfaction, and depression among 192 young adults (ages 18\u201325).",
+        "value": [
+            18,
+            25
+        ]
+    },
+    "category": "Experiment",
+    "confidence": "High",
+    "gender_split": {
+        "evidence": "We recruited 145 female participants (75.52 %), 45 male participants (23.44 %), and 2 participants who did not wish to disclose (1.04 %).",
+        "value": {
+            "female": 145,
+            "male": 45,
+            "other": 2
+        }
+    },
+    "fieldwork_year": {
+        "evidence": "We collected data online during the beginning of the COVID-19 pandemic in March 2020.",
+        "value": 2020
+    },
+    "sample_size": {
+        "evidence": "Overall, 192 participants provided useable data.",
+        "value": 192
+    },
+    "countries": {
+        "evidence": "We only included the data from these 192 participants (i.e., 35 recruited on MTurk, and 157 recruited from introductory psychology and communication courses in a large public university in the U.S.)",
+        "value": ["US"]
+    }
+}

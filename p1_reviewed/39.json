@@ -1,0 +1,18 @@
+{
+    "category": "Experiment",
+    "confidence": "High",
+    "countries": {
+        "evidence": "1 K\u00FCtahya Dumlupinar University, K\u00FCtahya, T\u00FCrkiye\n2 Necmettin Erbakan University, Konya, T\u00FCrkiye",
+        "value": [
+            "TR"
+        ]
+    },
+    "fieldwork_year": {
+        "evidence": "The study, conducted in 2024 with a sample of 330 university students...",
+        "value": 2024
+    },
+    "sample_size": {
+        "evidence": "The study, conducted in 2024 with a sample of 330 university students...",
+        "value": 330
+    }
+}

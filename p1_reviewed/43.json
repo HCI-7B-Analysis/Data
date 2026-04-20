@@ -1,0 +1,33 @@
+{
+    "age_range": {
+        "evidence": "Although ages ranged from 17 to 39, the majority of participants (78%) fell between the ages of 18 and 22 (inclusive).",
+        "value": [
+            17,
+            39
+        ]
+    },
+    "category": "Experiment",
+    "confidence": "High",
+    "countries": {
+        "evidence": "Undergraduate students enrolled in communication courses at a large-sized southeastern university were recruited for this study (N = 300).",
+        "value": [
+            "US"
+        ]
+    },
+    "fieldwork_year": {
+        "evidence": "Data were collected during both spring and fall semesters of 2018.",
+        "value": 2018
+    },
+    "gender_split": {
+        "evidence": "Of the participants, 31% were male and 68% were female.",
+        "value": {
+            "female": 204,
+            "male": 93,
+            "other": 3
+        }
+    },
+    "sample_size": {
+        "evidence": "Undergraduate students enrolled in communication courses at a large-sized southeastern university were recruited for this study (N = 300).",
+        "value": 300
+    }
+}

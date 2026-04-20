@@ -1,0 +1,29 @@
+{
+    "age_range": {
+        "evidence": "As emerging adults (18 - 25), this age group has seen the rise and fall of multiple social media platforms...",
+        "value": [
+            18,
+            25
+        ]
+    },
+    "category": "Experiment",
+    "confidence": "High",
+    "countries": {
+        "evidence": "Findings from our mixed-methods study of students at a large university in the Southeastern United States...",
+        "value": [
+            "US"
+        ]
+    },
+    "gender_split": {
+        "evidence": "Table 1: Respondent details from CCA survey. Female 23, Male 19, Other/DNR 0",
+        "value": {
+            "female": 23,
+            "male": 19,
+            "other": 0
+        }
+    },
+    "sample_size": {
+        "evidence": "Interviews with 14 students were recording, transcribed, and each coded... 42 students completed the CCA survey, with one respondent removed prior to analysis.",
+        "value": 41
+    }
+}

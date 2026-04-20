@@ -1,0 +1,29 @@
+{
+    "category": "Experiment",
+    "age_range": {
+        "evidence": "Measures of happiness for children aged 10–15 from 7 waves of the UK Household Longitudinal Study were examined",
+        "value": [
+            9,
+            16
+        ]
+    },
+    "countries": {
+        "evidence": "Measures of happiness for children aged 10–15 from 7 waves of the UK Household Longitudinal Study were examined",
+        "value": [
+            "GB"
+        ]
+    },
+    "sample_size": {
+        "evidence": "Measures of happiness for children aged 10–15 from 7 waves of the UK Household Longitudinal Study were examined (n = 7596)",
+        "value": 7596
+    },
+    "gender_split": {
+        "evidence": "",
+        "value": {
+            "male": 3805,
+            "female": 3791,
+            "other": 0
+        }
+    },
+    "confidence": "High"
+}

@@ -1,0 +1,26 @@
+{
+    "category": "Experiment",
+    "confidence": "High",
+    "countries": {
+        "evidence": "An online cross-sectional study was carried out in three cities in Vietnam (Hanoi, Tuyen Quang, and Can Tho)...",
+        "value": [
+            "VN"
+        ]
+    },
+    "fieldwork_year": {
+        "evidence": "An online cross-sectional study was carried out in three cities in Vietnam (Hanoi, Tuyen Quang, and Can Tho) from September to October 2021.",
+        "value": 2021
+    },
+    "gender_split": {
+        "evidence": "Regarding socio-demographic characteristics, the majority of the participants resided in urban areas (91.5%), were students (92.9%), and were female (57.0%). [Table 1]",
+        "value": {
+            "female": 1054,
+            "male": 796,
+            "other": 0
+        }
+    },
+    "sample_size": {
+        "evidence": "Among 1850 participants, the majority were students (92.9%), urban residents (91.5%), and females (57.0%).",
+        "value": 1850
+    }
+}

@@ -1,0 +1,33 @@
+{
+    "age_range": {
+        "evidence": "The analysis presented in this study is based on a sub-sample of 4083 participants who responded to a self-report questionnaire at a mean age of 24 years old in 2016/17.",
+        "value": [
+            24,
+            24
+        ]
+    },
+    "category": "Experiment",
+    "confidence": "High",
+    "countries": {
+        "evidence": "The sample for this study is drawn from the Avon Longitudinal Study of Parents and Children (ALSPAC)... resident in Avon, UK",
+        "value": [
+            "GB"
+        ]
+    },
+    "fieldwork_year": {
+        "evidence": "The analysis presented in this study is based on a sub-sample of 4083 participants who responded to a self-report questionnaire at a mean age of 24 years old in 2016/17.",
+        "value": 2016
+    },
+    "gender_split": {
+        "evidence": "All social media users in the sample (N = 4083) are split by female (N = 2698) and male (N = 1385)",
+        "value": {
+            "female": 2698,
+            "male": 1385,
+            "other": 0
+        }
+    },
+    "sample_size": {
+        "evidence": "The analysis presented in this study is based on a sub-sample of 4083 participants who responded to a self-report questionnaire",
+        "value": 4083
+    }
+}

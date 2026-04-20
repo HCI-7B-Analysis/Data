@@ -1,0 +1,21 @@
+{
+    "age_range": {
+        "evidence": "Measures of happiness for children aged 10\u201315 from 7 waves of the UK Household Longitudinal Study were examined (n = 7596).",
+        "value": [
+            10,
+            15
+        ]
+    },
+    "category": "Experiment",
+    "confidence": "High",
+    "countries": {
+        "evidence": "the present study uses data from the UK Household Longitudinal Study (UKHLS)",
+        "value": [
+            "GB"
+        ]
+    },
+    "sample_size": {
+        "evidence": "Measures of happiness for children aged 10\u201315 from 7 waves of the UK Household Longitudinal Study were examined (n = 7596).",
+        "value": 7596
+    }
+}

@@ -1,0 +1,29 @@
+{
+    "age_range": {
+        "evidence": "including 1109 adolescents (50.0% boys) aged 12\u201318 (mean, 14.89) years and 457 young adults (42.5% men) aged 18\u201325 (mean, 20.75) years.",
+        "value": [
+            12,
+            25
+        ]
+    },
+    "category": "Experiment",
+    "confidence": "High",
+    "countries": {
+        "evidence": "The adolescent group consisted of 1109 middle and high school students in Chongqing, China... The young adult group comprised 457 university students from the same location...",
+        "value": [
+            "CN"
+        ]
+    },
+    "gender_split": {
+        "evidence": "The adolescent group consisted of 1109 middle and high school students in Chongqing, China, with an equal distribution of boys and girls. ... The young adult group comprised 457 university students from the same location, with 42% from men.",
+        "value": {
+            "female": 535,
+            "male": 1011,
+            "other": 0
+        }
+    },
+    "sample_size": {
+        "evidence": "Our study included two samples (adolescents and young adults). The adolescent group consisted of 1109 middle and high school students... The young adult group comprised 457 university students...",
+        "value": 1566
+    }
+}

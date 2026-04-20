@@ -1,0 +1,29 @@
+{
+    "age_range": {
+        "evidence": "Their mean age (yrs.) was 19.66 (SD = 3.92).",
+        "value": [
+            16,
+            23
+        ]
+    },
+    "category": "Experiment",
+    "confidence": "High",
+    "countries": {
+        "evidence": "The sample consisted of 471 undergraduate students attending a university from the southeastern region of the United States.",
+        "value": [
+            "US"
+        ]
+    },
+    "gender_split": {
+        "evidence": "rendering our final sample size to 467 (335 females; 130 males; 2 unanswered).",
+        "value": {
+            "female": 335,
+            "male": 130,
+            "other": 0
+        }
+    },
+    "sample_size": {
+        "evidence": "rendering our final sample size to 467",
+        "value": 467
+    }
+}

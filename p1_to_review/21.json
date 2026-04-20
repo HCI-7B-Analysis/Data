@@ -1,0 +1,27 @@
+{
+    "age_range": {
+        "evidence": "Two age groups were targeted: adolescents aged 15\u201316 years and young adults aged 20\u201324 years.",
+        "value": [
+            15,
+            24
+        ]
+    },
+    "category": "Experiment",
+    "confidence": "High",
+    "countries": {
+        "evidence": "This longitudinal study in three capital cities of South America, focusing on youth from vulnerable urban areas... Bogot\u00E1 (Colombia), Buenos Aires (Argentina), and Lima (Peru)",
+        "value": [
+            "CO",
+            "AR",
+            "PE"
+        ]
+    },
+    "fieldwork_year": {
+        "evidence": "Participants were recruited between April 2021 and November 2022",
+        "value": 2021
+    },
+    "sample_size": {
+        "evidence": "A longitudinal study assessed 1280 participants with depression and/or anxiety at baseline.",
+        "value": 1280
+    }
+}

@@ -1,0 +1,33 @@
+{
+    "age_range": {
+        "evidence": "We conducted a diary study to investigate how teens (N=57, M age = 16.3 years) used Instagram to regulate their emotions.",
+        "value": [
+            13,
+            17
+        ]
+    },
+    "category": "Experiment",
+    "confidence": "High",
+    "countries": {
+        "evidence": "reside and attend high school in the United States",
+        "value": [
+            "US"
+        ]
+    },
+    "fieldwork_year": {
+        "evidence": "We conducted a diary study during July-August 2023 in which teens reported daily on their experiences and emotions on Instagram for approximately seven days",
+        "value": 2023
+    },
+    "gender_split": {
+        "evidence": "Boys (19.3%), Girls (66.7%), Non-binary or third gender (8.8%), Other (Prefer to self-describe / Prefer not to disclose) (5.3%)",
+        "value": {
+            "female": 38,
+            "male": 11,
+            "other": 5
+        }
+    },
+    "sample_size": {
+        "evidence": "we recruited 70 Instagram users, 57 of whom completed at least four daily surveys",
+        "value": 57
+    }
+}

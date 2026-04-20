@@ -1,0 +1,33 @@
+{
+    "age_range": {
+        "evidence": "To be included in the study, prospective participants had to live in the United States, own and use an Android phone, be between the ages of 14 and 18...",
+        "value": [
+            14,
+            18
+        ]
+    },
+    "category": "Experiment",
+    "confidence": "High",
+    "countries": {
+        "evidence": "To be included in the study, prospective participants had to live in the United States...",
+        "value": [
+            "US"
+        ]
+    },
+    "fieldwork_year": {
+        "evidence": "We conducted virtual co-design sessions with nineteen teens in summer 2021 following the initial design and development of the prototype",
+        "value": 2021
+    },
+    "gender_split": {
+        "evidence": "The first group included fourteen teens aged 14-16 years (Mage=15.0 years; 2 male, 1 female, 1 non-binary; 2 Asian, 2 white). The second group included five teens aged 15-18 years (Mage=16.2 years; 3 male, 2 female; 3 Asian, 2 white).",
+        "value": {
+            "female": 3,
+            "male": 5,
+            "other": 1
+        }
+    },
+    "sample_size": {
+        "evidence": "Sixty-six participants met the inclusion criteria and successfully installed the Locus app on their phone. Of those participants, 54 completed all study procedures...",
+        "value": 9
+    }
+}

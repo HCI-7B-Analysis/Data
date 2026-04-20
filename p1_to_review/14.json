@@ -1,0 +1,21 @@
+{
+    "age_range": {
+        "evidence": "The D2M study, which has tracked development from age 7 to 24 in ~1500 participants sampled from Zurich schools on school entry (Ribeaud et al., 2022).",
+        "value": [
+            7,
+            24
+        ]
+    },
+    "category": "Experiment",
+    "confidence": "High",
+    "countries": {
+        "evidence": "participants sampled from Zurich schools",
+        "value": [
+            "CH"
+        ]
+    },
+    "sample_size": {
+        "evidence": "The D2M study, which has tracked development from age 7 to 24 in ~1500 participants sampled from Zurich schools on school entry (Ribeaud et al., 2022). The D2M study was conducted shortly after the main age 20 years wave of data collection of z-proso in a convenience subsample (n =255) of the main cohort.",
+        "value": 255
+    }
+}

@@ -1,0 +1,33 @@
+{
+    "age_range": {
+        "evidence": "The D2M study was conducted shortly after the main age  20 years wave of data collection of z-proso in a convenience subsample  (n =255) of the main cohort. The main survey data  collection was conducted between April and September of 2018 when  participants were of median age 20.6 years.",
+        "value": [
+            20,
+            21
+        ]
+    },
+    "category": "Experiment",
+    "confidence": "High",
+    "countries": {
+        "evidence": "participants sampled from Zurich schools",
+        "value": [
+            "CH"
+        ]
+    },
+    "fieldwork_year": {
+        "evidence": "The main survey data collection was conducted April and September of 2018",
+        "value": 2018
+    },
+    "sample_size": {
+        "evidence": "The D2M study, which has tracked development from age 7 to 24 in ~1500 participants sampled from Zurich schools on school entry (Ribeaud et al., 2022). The D2M study was conducted shortly after the main age 20 years wave of data collection of z-proso in a convenience subsample (n =255) of the main cohort.",
+        "value": 255
+    },
+    "gender_split": {
+        "evidence": "",
+        "value": {
+            "male": 98,
+            "female": 156,
+            "other": 0
+        }
+    }
+}

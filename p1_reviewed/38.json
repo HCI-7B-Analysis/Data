@@ -1,0 +1,29 @@
+{
+    "age_range": {
+        "evidence": "Inclusion criteria were being ages 18 to 25",
+        "value": [
+            18,
+            25
+        ]
+    },
+    "category": "Experiment",
+    "confidence": "High",
+    "countries": {
+        "evidence": "Data was collected from a university located in the midwestern United States.",
+        "value": [
+            "US"
+        ]
+    },
+    "gender_split": {
+        "evidence": "The sample was mostly female (77.7%), followed by male (17.7%), non-binary (1.6%), and another unlisted gender (0.7%).",
+        "value": {
+            "female": 447,
+            "male": 102,
+            "other": 26
+        }
+    },
+    "sample_size": {
+        "evidence": "resulting in a final sample of 575 participants.",
+        "value": 575
+    }
+}

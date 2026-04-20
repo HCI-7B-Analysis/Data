@@ -1,0 +1,33 @@
+{
+    "age_range": {
+        "evidence": "longitudinal study of 12 866 young people from age 13 years to 16 years in England.",
+        "value": [
+            13,
+            16
+        ]
+    },
+    "category": "Experiment",
+    "confidence": "High",
+    "countries": {
+        "evidence": "longitudinal study of 12 866 young people from age 13 years to 16 years in England.",
+        "value": [
+            "GB"
+        ]
+    },
+    "fieldwork_year": {
+        "evidence": "In the first wave of LSYPE2, which commenced in 2013",
+        "value": 2013
+    },
+    "gender_split": {
+        "evidence": "Male 4712 50\u00B70% (48\u00B74\u201351\u00B75) ... Female 4840 50\u00B70% (48\u00B75\u201351\u00B76) [Table 1]",
+        "value": {
+            "female": 4840,
+            "male": 4712,
+            "other": 0
+        }
+    },
+    "sample_size": {
+        "evidence": "The exposure considered was the frequency of social media use ... at wave 1 (participants aged 13\u201314 years) through wave 3 of the study (participants aged 15\u201316 years). ... Wave 1 ... 9552 (74.2%) of the 12 866 total respondents",
+        "value": 9552
+    }
+}

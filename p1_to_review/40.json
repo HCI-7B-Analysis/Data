@@ -1,0 +1,33 @@
+{
+    "age_range": {
+        "evidence": "In this cross\u2011sectional study, 12\u201322 years old adolescents and young adults... were studied",
+        "value": [
+            12,
+            22
+        ]
+    },
+    "category": "Experiment",
+    "confidence": "High",
+    "countries": {
+        "evidence": "The study was conducted among Iranian adolescents and young adults drawn from all regions in Iran.",
+        "value": [
+            "IR"
+        ]
+    },
+    "fieldwork_year": {
+        "evidence": "A cross-sectional study was conducted from September 5, 2021, to October 2, 2021.",
+        "value": 2021
+    },
+    "gender_split": {
+        "evidence": "Finally, 970 subjects (44.2% girls and 55.8% boys) were included in the analysis.",
+        "value": {
+            "female": 429,
+            "male": 541,
+            "other": 0
+        }
+    },
+    "sample_size": {
+        "evidence": "Finally, 970 subjects (44.2% girls and 55.8% boys) were included in the analysis.",
+        "value": 970
+    }
+}

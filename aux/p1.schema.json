@@ -1,0 +1,150 @@
+{
+    "$schema": "https://json-schema.org/draft-07/schema#",
+    "required": [
+        "confidence",
+        "category"
+    ],
+    "type": "object",
+    "properties": {
+        "category": {
+            "enum": [
+                "Review",
+                "Experiment"
+            ],
+            "type": "string",
+            "$comment": "Use the appropriate branch later on to give additional metadata on Experiment papers."
+        },
+        "confidence": {
+            "enum": [
+                "Low",
+                "Medium",
+                "High"
+            ],
+            "type": "string"
+        }
+    },
+    "anyOf": [
+        {
+            "type": "object",
+            "properties": {
+                "age_range": {
+                    "properties": {
+                        "evidence": {
+                            "type": "string"
+                        },
+                        "value": {
+                            "items": {
+                                "format": "int32",
+                                "type": "integer"
+                            },
+                            "maxItems": 2,
+                            "minItems": 2,
+                            "type": "array"
+                        }
+                    },
+                    "required": [
+                        "evidence",
+                        "value"
+                    ],
+                    "type": "object"
+                },
+                "fieldwork_year": {
+                    "properties": {
+                        "evidence": {
+                            "type": "string"
+                        },
+                        "value": {
+                            "format": "int32",
+                            "type": "integer"
+                        }
+                    },
+                    "required": [
+                        "evidence",
+                        "value"
+                    ],
+                    "type": "object",
+                    "$comment": "Pick the earliest date that researchers collected the data. This should just be one integer. If you are not sure, omit this field."
+                },
+                "gender_split": {
+                    "properties": {
+                        "evidence": {
+                            "type": "string"
+                        },
+                        "value": {
+                            "type": "object",
+                            "properties": {
+                                "male": {
+                                    "format": "int32",
+                                    "type": "integer"
+                                },
+                                "female": {
+                                    "format": "int32",
+                                    "type": "integer"
+                                },
+                                "other": {
+                                    "format": "int32",
+                                    "type": "integer"
+                                }
+                            },
+                            "required": [
+                                "male",
+                                "female",
+                                "other"
+                            ],
+                            "$comment": "Please write the number (absolute) of participants that were analyzed that were of each gender. If the paper does not mention this, you may omit this field."
+                        }
+                    },
+                    "$comment": "Pick the earliest date that researchers collected the data",
+                    "required": [
+                        "evidence",
+                        "value"
+                    ],
+                    "type": "object"
+                },
+                "countries": {
+                    "properties": {
+                        "evidence": {
+                            "type": "string"
+                        },
+                        "value": {
+                            "items": {
+                                "type": "string",
+                                "minItems": 1
+                            }
+                        }
+                    },
+                    "$comment": "List all countries where data was collected. Please use ISO 3166-1 alpha-2.",
+                    "required": [
+                        "evidence",
+                        "value"
+                    ],
+                    "type": "object"
+                },
+                "sample_size": {
+                    "required": [
+                        "evidence",
+                        "value"
+                    ],
+                    "type": "object",
+                    "properties": {
+                        "evidence": {
+                            "type": "string"
+                        },
+                        "value": {
+                            "format": "int32",
+                            "type": "integer"
+                        }
+                    },
+                    "$comment": "Please only look at the numbers of participants that were analyzed, often studies discount a lot of participants because their data was incomplete, or other reasons."
+                }
+            },
+            "$comment": "Use this branch if the paper features an experiment with participants."
+        },
+        {
+            "type": "object",
+            "properties": {},
+            "$comment": "Use this other branch if the paper is a review paper."
+        }
+    ],
+    "$comment": "Comply with this response object. Notice how additional properties are added if the paper is an experimental paper."
+}

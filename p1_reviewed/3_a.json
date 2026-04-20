@@ -1,0 +1,33 @@
+{
+    "age_range": {
+        "evidence": "we recruited English-speaking participants from the United States through a paid Instagram ad that included a link to an initial screener survey",
+        "value": [
+            14,
+            18
+        ]
+    },
+    "category": "Experiment",
+    "confidence": "High",
+    "countries": {
+        "evidence": "To be included in the study, prospective participants had to live in the United States...",
+        "value": [
+            "US"
+        ]
+    },
+    "fieldwork_year": {
+        "evidence": "We conducted virtual co-design sessions with nineteen teens in summer 2021 following the initial design and development of the prototype",
+        "value": 2021
+    },
+    "gender_split": {
+        "evidence": "[TABLE 1]",
+        "value": {
+            "female": 13,
+            "male": 41,
+            "other": 0
+        }
+    },
+    "sample_size": {
+        "evidence": "We conducted an open trial field deployment (N=54) to examine the acceptability of Locus ",
+        "value": 54
+    }
+}

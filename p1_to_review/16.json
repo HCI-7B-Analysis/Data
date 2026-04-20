@@ -1,0 +1,21 @@
+{
+    "age_range": {
+        "evidence": "In an experimental study, parents of teens were randomly assigned to receive a warning message delivered across several channels... Results showed that parents who received the warning from a physician, in comparison to other channels, were significantly more likely to (A) discuss social media with their teen(s) and (B) reduce screen time.",
+        "value": [
+            13,
+            19
+        ]
+    },
+    "category": "Experiment",
+    "confidence": "High",
+    "countries": {
+        "evidence": "In the USA, the Office of the Surgeon General has labeled this issue a mental health crisis (Murthy, 2024)...",
+        "value": [
+            "US"
+        ]
+    },
+    "sample_size": {
+        "evidence": "In an experimental study, parents of teens were randomly assigned to receive a warning message delivered across several channels (e.g. parental control settings, pediatrician communication, online resources).",
+        "value": 0
+    }
+}

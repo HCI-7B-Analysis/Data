@@ -1,0 +1,29 @@
+{
+    "age_range": {
+        "evidence": "Participants (between 17 and 24 years old) at a university or found through social media (Reddit, Facebook, and Instagram; N =371) were given the Five Factor Mindfulness Questionnaire (FFMQ), the Social Media Engagement Scale for Adolescents (SMES-A), and the Patient Health Questionnaire (PHQ-8), which measured depression.",
+        "value": [
+            17,
+            24
+        ]
+    },
+    "category": "Experiment",
+    "confidence": "High",
+    "countries": {
+        "evidence": "Our goal sample size was 400 participants since at this sample size, small and medium effects are detected at 0.8 power (Fritz & Mackinnon, 2007). In order to reach this goal, we enlisted participants through a general psychology participant pool at a public liberal arts college in the Southeast United States (N =271).",
+        "value": [
+            "US"
+        ]
+    },
+    "gender_split": {
+        "evidence": "A large majority, 78.7% (n =292), of our participants identified as female; 18.6% (n=69) identified as male, and 2.2% (n =8) identified in a different way.",
+        "value": {
+            "female": 292,
+            "male": 69,
+            "other": 8
+        }
+    },
+    "sample_size": {
+        "evidence": "Our final sample was 371 which fell short of the goal of 400 because responses had plateaued and the time constraints of the academic year necessitated that we complete our data collection.",
+        "value": 371
+    }
+}

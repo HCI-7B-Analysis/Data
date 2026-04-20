@@ -1,0 +1,18 @@
+{
+  "category": "Experiment",
+  "confidence": "High",
+  "sample_size": {
+    "evidence": "The final dataset contains a total of 12,645 posts.",
+    "value": 12645
+  },
+  "fieldwork_year": {
+    "evidence": "The timestamp of the posts range from January 2016 to May 2018.",
+    "value": 2016
+  },
+  "countries": {
+    "evidence": "The authors are from Georgia Institute of Technology, USA and University of Michigan, USA.",
+    "value": [
+      "US"
+    ]
+  }
+}

@@ -1,0 +1,33 @@
+{
+    "age_range": {
+        "evidence": "The final sample had a mean age of 14.83 years (SD = 1.40).",
+        "value": [
+            10,
+            18
+        ]
+    },
+    "category": "Experiment",
+    "confidence": "High",
+    "countries": {
+        "evidence": "A three-wave longitudinal study was conducted with 3,184 teenagers from China.",
+        "value": [
+            "CN"
+        ]
+    },
+    "fieldwork_year": {
+        "evidence": "Stage 2 (T2) was conducted in February 2025 and assessed difficulty describing feelings and experiential avoidance. Stage 3 (T3) was conducted in May 2025 and focused on social media addiction.",
+        "value": 2025
+    },
+    "gender_split": {
+        "evidence": "Table 1. Descriptive statistics of population variables. Boys 1577, Girls 1607",
+        "value": {
+            "female": 1607,
+            "male": 1577,
+            "other": 0
+        }
+    },
+    "sample_size": {
+        "evidence": "Following the same matching and data cleaning procedures, 3,184 participants provided complete and valid data across all three waves",
+        "value": 3184
+    }
+}

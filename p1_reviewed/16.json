@@ -1,0 +1,11 @@
+{
+    "age_range": {
+        "evidence": "Research Project #2 identified four problems centered on the child’s household, based on open-response data from teens (ages 15–19).",
+        "value": [
+            15,
+            19
+        ]
+    },
+    "category": "Experiment",
+    "confidence": "High"
+}

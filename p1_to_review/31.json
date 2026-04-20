@@ -1,0 +1,59 @@
+{
+  "category": "Experiment",
+  "confidence": "High",
+  "sample_size": {
+    "evidence": "It gathered data from 25,646 participants aged 16 and above.",
+    "value": 25646
+  },
+  "fieldwork_year": {
+    "evidence": "Conducted in late 2022",
+    "value": 2022
+  },
+  "gender_split": {
+    "evidence": "Share of female: 52%, share of male: 48%.",
+    "value": {
+      "male": 12310,
+      "female": 13335,
+      "other": 0
+    }
+  },
+  "countries": {
+    "evidence": "EU-wide, individual-level survey that comprises information on social media usage time, patterns, motivations, and potential overuse, together with a rich set of socio-economic conditions, experiences of loneliness, and traumatic events in childhood of individuals residing in 27 European member states.",
+    "value": [
+      "AT",
+      "BE",
+      "BG",
+      "CY",
+      "CZ",
+      "DE",
+      "DK",
+      "EE",
+      "ES",
+      "FI",
+      "FR",
+      "GR",
+      "HR",
+      "HU",
+      "IE",
+      "IT",
+      "LT",
+      "LU",
+      "LV",
+      "MT",
+      "NL",
+      "PL",
+      "PT",
+      "RO",
+      "SE",
+      "SI",
+      "SK"
+    ]
+  },
+  "age_range": {
+    "evidence": "It gathered data from 25,646 participants aged 16 and above.",
+    "value": [
+      16,
+      80
+    ]
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "category": "Experiment",
+  "confidence": "High",
+  "fieldwork_year": {
+    "evidence": "The survey data was collected between 23 September 2020 to 05 October 2020.",
+    "value": 2020
+  },
+  "gender_split": {
+    "evidence": "The demographic analysis of the population includes 69.30% Male and 30.70% Female [Table 7]",
+    "value": {
+      "male": 528,
+      "female": 234,
+      "other": 0
+    }
+  },
+  "countries": {
+    "evidence": "The participants for this study consisted of 726 individuals of Indian descent... The participating in our study is from India since our research is bounded with the Indian context.",
+    "value": [
+      "IN"
+    ]
+  },
+  "sample_size": {
+    "evidence": "Participants (N = 726) were recruited to fill up a questionnaire",
+    "value": 726
+  }
+}

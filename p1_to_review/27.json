@@ -1,0 +1,29 @@
+{
+    "age_range": {
+        "evidence": "The present study examined these direct and indirect relationships among a sample of 385 adolescents (mean age 15.62 years, range 14\u201318 years).",
+        "value": [
+            14,
+            18
+        ]
+    },
+    "category": "Experiment",
+    "confidence": "High",
+    "countries": {
+        "evidence": "Participants were recruited from a high school in a north-western region of Turkey.",
+        "value": [
+            "TR"
+        ]
+    },
+    "gender_split": {
+        "evidence": "A total of 385 adolescent social media users, aged between 14 and 18 years (M = 15.62 years, SD = 1.00, 57% female), participated in the study. [Table 1] Male 57(222) Female 43(164)",
+        "value": {
+            "female": 163,
+            "male": 222,
+            "other": 0
+        }
+    },
+    "sample_size": {
+        "evidence": "A total of 385 adolescent social media users, aged between 14 and 18 years (M = 15.62 years, SD = 1.00, 57% female), participated in the study.",
+        "value": 385
+    }
+}

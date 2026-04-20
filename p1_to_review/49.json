@@ -1,0 +1,33 @@
+{
+    "age_range": {
+        "evidence": "The aim of this qualitative study is to gain insight into how girls and young women aged 13\u201319 give meaning to facial-beauty content on social media.",
+        "value": [
+            13,
+            19
+        ]
+    },
+    "category": "Experiment",
+    "confidence": "High",
+    "countries": {
+        "evidence": "The interviews were conducted in the Spring of 2024 in the Netherlands.",
+        "value": [
+            "NL"
+        ]
+    },
+    "fieldwork_year": {
+        "evidence": "The interviews were conducted in the Spring of 2024 in the Netherlands.",
+        "value": 2024
+    },
+    "gender_split": {
+        "evidence": "The interviews with 16 adolescent female respondents (ages 13\u201319; for details, see Table 1).",
+        "value": {
+            "female": 16,
+            "male": 0,
+            "other": 0
+        }
+    },
+    "sample_size": {
+        "evidence": "Based on the 16 interviews, it can be concluded that facial-beauty content on social media plays a significant role in the lives of girls and young women...",
+        "value": 16
+    }
+}

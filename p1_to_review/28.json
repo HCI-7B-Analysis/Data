@@ -1,0 +1,33 @@
+{
+    "age_range": {
+        "evidence": "Young people aged 15 to 25 and adults (aged 26 and above)",
+        "value": [
+            15,
+            25
+        ]
+    },
+    "category": "Experiment",
+    "confidence": "High",
+    "countries": {
+        "evidence": "Participants from across Australia were recruited",
+        "value": [
+            "AU"
+        ]
+    },
+    "fieldwork_year": {
+        "evidence": "An online national cross-sectional survey was conducted between January and March 2024.",
+        "value": 2024
+    },
+    "gender_split": {
+        "evidence": "50.9% (n = 1,805) identified as cisgender women and 45.5% (n = 1,613) as cisgender men. [Table 1]",
+        "value": {
+            "female": 1805,
+            "male": 1613,
+            "other": 91
+        }
+    },
+    "sample_size": {
+        "evidence": "Three thousand five hundred forty-nine individuals (895 young people; 2,654 adults) completed the survey.",
+        "value": 3549
+    }
+}

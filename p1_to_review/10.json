@@ -1,0 +1,33 @@
+{
+    "age_range": {
+        "evidence": "This study examined the associations between SMU and several indicators of PMH in a nationally representative sample of 13,113 adolescents in grades 6 to 10 from the 2017/2018 cycle of the Canadian Health Behavior in School-aged Children (HBSC) study.",
+        "value": [
+            11,
+            16
+        ]
+    },
+    "category": "Experiment",
+    "confidence": "High",
+    "countries": {
+        "evidence": "All adolescents from all 10 provinces and two territories (Yukon, Northwest Territories) participated.",
+        "value": [
+            "CA"
+        ]
+    },
+    "fieldwork_year": {
+        "evidence": "Data for the 2017/2018 cycle were collected from 21,745 Canadian adolescents.",
+        "value": 2017
+    },
+    "gender_split": {
+        "evidence": "Included respondents (those with complete data) ... Female 54.4(52.4,56.3) ... Male 45.7(43.7,47.6) [Table 1]",
+        "value": {
+            "female": 4702,
+            "male": 4570,
+            "other": 0
+        }
+    },
+    "sample_size": {
+        "evidence": "The analytic sample represented 60% of eligible participants with complete data on study variables ... Included respondents (those with complete data) ... 8632 [Table 1]",
+        "value": 8632
+    }
+}

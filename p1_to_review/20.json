@@ -1,0 +1,29 @@
+{
+    "age_range": {
+        "evidence": "Participants were 405 Australian women aged 17 \u2013 33 years",
+        "value": [
+            17,
+            33
+        ]
+    },
+    "category": "Experiment",
+    "confidence": "High",
+    "countries": {
+        "evidence": "Participants were 405 Australian women",
+        "value": [
+            "AU"
+        ]
+    },
+    "gender_split": {
+        "evidence": "Participants were 405 Australian women",
+        "value": {
+            "female": 405,
+            "male": 0,
+            "other": 0
+        }
+    },
+    "sample_size": {
+        "evidence": "Participants were 405 Australian women",
+        "value": 405
+    }
+}

@@ -1,0 +1,31 @@
+{
+    "category": "Experiment",
+    "confidence": "High",
+    "age_range": {
+        "evidence": "The depressed group indicates users who received a total of at least 21 scores and then the non-depressed group is up to 20 scores. ... The males aged between 19 and 38 (Mean=25.61, SD=3.72) and the 51 (24%) were females aged between 19 and 33 (Mean=24.06, SD=2.69).",
+        "value": [
+            19,
+            38
+        ]
+    },
+    "fieldwork_year": {
+        "evidence": "Participants were gathered over two periods of time, April and December in 2013",
+        "value": 2013
+    },
+    "gender_split": {
+        "evidence": "The males aged between 19 and 38 (Mean=25.61, SD=3.72) and the 51 (24%) were females aged between 19 and 33 (Mean=24.06, SD=2.69).",
+        "value": {
+            "male": 161,
+            "female": 51,
+            "other": 0
+        }
+    },
+    "countries": {
+        "evidence": "{shaun.park, kiyeob4416, leesangwon, jaehyun.yoo, bs.jeong, meeyoungcha}@kaist.ac.kr. [...] University Cafeteria",
+        "value": ["KR"]
+    },
+    "sample_size": {
+        "evidence": "A total of 234 participants were recruited from a large university ... 212 (90%) completed the depression test",
+        "value": 212
+    }
+}

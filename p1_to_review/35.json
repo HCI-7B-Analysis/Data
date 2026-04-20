@@ -1,0 +1,33 @@
+{
+    "age_range": {
+        "evidence": "The study conducted two-round online interviews with ten Chinese university students...",
+        "value": [
+            18,
+            21
+        ]
+    },
+    "category": "Experiment",
+    "confidence": "High",
+    "countries": {
+        "evidence": "The study conducted two-round online interviews with ten Chinese university students...",
+        "value": [
+            "CN"
+        ]
+    },
+    "fieldwork_year": {
+        "evidence": "The current study started in September 2022 and ended in June 2023.",
+        "value": 2022
+    },
+    "gender_split": {
+        "evidence": "Table 1 Participants\u2019 background information",
+        "value": {
+            "female": 5,
+            "male": 5,
+            "other": 0
+        }
+    },
+    "sample_size": {
+        "evidence": "Following participant\u2019s consent, 10 eligible individuals were selected for 2 round in-depth interviews...",
+        "value": 10
+    }
+}

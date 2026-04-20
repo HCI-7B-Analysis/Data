@@ -1,0 +1,10 @@
+/*
+!*.ipynb
+!figs/
+!extra/
+!aux/
+!p*/
+papers/
+!README.md
+!included.csv
+!.gitignore
