@@ -8,3 +8,5 @@ papers/
 !README.md
 !included.csv
 !.gitignore
+!combined.csv
+!summary*
