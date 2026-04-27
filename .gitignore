@@ -1,11 +1,12 @@
 /*
 !*.ipynb
+GEO-SOURCE.txt
 !figs/
 !extra/
 !aux/
 !p*/
 papers/
-!README.md
+!*.txt
 !included.csv
 !.gitignore
 !combined.csv

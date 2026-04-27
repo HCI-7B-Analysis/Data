@@ -1,0 +1,2 @@
+The World map used for geographic visualizations is courtesy of:
+https://www.naturalearthdata.com/downloads/110m-cultural-vectors/110m-admin-0-countries/
